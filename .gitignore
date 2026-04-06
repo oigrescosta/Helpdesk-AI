@@ -4,3 +4,6 @@ dist/
 .env.local
 *.log
 bun.lock
+.claude/
+CLAUDE.md
+context7.txt
